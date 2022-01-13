@@ -1,0 +1,15 @@
+WorkedWith,Academic researcher,Back-End Developer,Data Analyst,Data Scientist,Database administrator,DevOps specialist,Developer_ QA or test,Developer_ desktop or enterprise applications,Developer_ embedded applications or devices,Developer_ game or graphics,Engineer_ data,Engineering manager,Front-End Developer,Fullstack Developer,Mobile Developer,Product Manager,Senior Executive (C-Suite_ VP_ etc.),System administrator
+Ansible,1.08,19.73,0.16,1.73,1.18,8.26,1.04,7.23,0.95,0.08,4.65,1.56,14.25,27.14,8.44,0.26,1.04,1.22
+Chef,,,,,,,,,,,,,,,,,,
+Deno,,,,,,,,,,,,,,,,,,
+Docker,0.91,17.2,0.2,2.98,0.27,2.06,0.73,7.16,1.01,0.14,3.89,1.15,19.56,29.58,11.89,0.29,0.66,0.34
+Flow,,,,,,,,,,,,,,,,,,
+Git,1.33,13.67,0.42,3.01,0.24,1.28,0.75,8.28,1.36,0.34,3.24,0.94,21.48,26.92,15.55,0.31,0.52,0.36
+Kubernetes,0.36,21.89,0.15,2.62,0.28,3.82,0.8,6.71,0.33,0.04,4.69,1.59,16.87,28.28,10.07,0.27,0.91,0.29
+Pulumi,,,,,,,,,,,,,,,,,,
+Puppet,,,,,,,,,,,,,,,,,,
+Terraform,0.22,21.8,0.18,1.61,0.65,8.24,0.41,5.62,0.12,0.02,6.37,1.99,13.8,29.8,7.49,0.28,1.16,0.26
+Unity 3D,1.16,7.92,0.28,1.97,0.2,0.46,0.3,9.26,0.81,3.01,1.75,0.48,21.03,21.64,28.52,0.25,0.4,0.53
+Unreal Engine,1.44,8.25,0.23,2.72,0.23,0.76,0.3,10.06,0.68,4.39,2.34,0.76,18.68,19.52,28.21,0.38,0.53,0.53
+Xamarin,0.38,5.49,0.51,0.72,0.17,0.34,0.34,9.44,0.51,0.26,0.64,0.77,13.4,19.61,46.45,0.3,0.47,0.21
+Yarn,0.32,8.05,0.17,0.76,0.09,0.66,0.31,3.65,0.14,0.08,1.85,0.93,31.34,33.18,17.55,0.21,0.52,0.18

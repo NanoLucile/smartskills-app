@@ -1,0 +1,63 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: #7c0804;
+    font-weight: bold;
+    }
+
+h2{
+    font-size: 15px;
+    color: #ffffff;
+    font-style: italic
+    }
+
+.title-div {
+    padding: 10px 20px 0px 20px;
+    
+}
+
+body {
+    background-color: #7f8081;
+    width: 100vw;
+    height: 100vh;
+}
+
+.form-container {
+    background-color: rgb(162, 186, 197);
+    height: 100vh;
+    
+}
+
+.logo {
+    width: 100%;
+    height: 25%
+}
+
+.graph {
+    height: 100vh;
+}
+
+.bottom {
+    width: 65vw;
+    height: 25%
+}
+@media only screen and (max-width: 992px) {
+    .graph.bottom {
+      width: 100vw;
+    }
+  }
+
+.top {
+    margin-bottom: 14px;
+}
+
+.middle {
+    width: 50 vw;
+    margin-bottom: 14px;
+}
+
+
+.slider {
+    display:flex;
+    width: 75%;
+  }
